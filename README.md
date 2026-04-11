@@ -6,7 +6,7 @@
 - :school:  I am a `Student` at [ESIME ZACATENCO](https://www.esimez.ipn.mx/) at [IPN](https://www.ipn.mx/).
 - :student: I’m currently learning `Web Development`, `Software Engineering` and `Ethical Hacking`
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently working at México`
+- :thinking: I’m currently working at `Aldeas Infantiles SOS México`
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
