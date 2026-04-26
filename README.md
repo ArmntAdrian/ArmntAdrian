@@ -5,7 +5,7 @@
 
 - :school: I am an `Engineering Student` at [ESIME ZACATENCO](https://www.esimez.ipn.mx/) (IPN).
 - :student: I’m currently learning `Web Development`, `Software Engineering` and `Ethical Hacking`.
-- :network_wired: Specialized in `Network Administration` and `IT Support Operations`.
+- :network_wired: Working in `Network Administration` and `IT Support Operations`.
 - :thinking: I’m currently working as a `IT Auxiliar` at **Aldeas Infantiles SOS México**.
 <br>
 
