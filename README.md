@@ -28,7 +28,7 @@ Soy un profesional ágil, metódico y resolutivo enfocado en garantizar la conti
 * **Auxiliar de ICT** | *Aldeas Infantiles SOS México* (2026 - Presente)
   * Administración de infraestructura de red distribuida mediante **Cisco Meraki**.
   * Gestión del ciclo de vida de identidades y dispositivos con **Active Directory** y **Microsoft Intune**.
-  * Despliegue y monitoreo de herramientas de ciberseguridad corporativa (**Sophos, ESET, SentinelOne**), campañas de concientización (**KnowBe4**) y análisis de vulnerabilidades (**Tenable**).
+  * Despliegue y monitoreo de herramientas de ciberseguridad corporativa (**Sophos, ESET, SentinelOne**).
   * Automatización de control de activos y flujos internos utilizando **Microsoft Power Platform**.
 
 * **Soporte Técnico N1/N2 (Servicio Social)** | *INEGI Coordinación Estatal Sur* (2025)
